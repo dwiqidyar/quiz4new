@@ -22,7 +22,7 @@
 
 | Nama              | yang_di_uji                         | Description |
 | :---------------- | :---------------------------------- | :---------- |
-| Muhammad Ramdhani | Search | \_\_\_\_    |
+| Muhammad Ramdhani | Search |https://drive.google.com/file/d/1Yt50gm1XH22_w4bgW8nz0b4YjMhV0MuC/view?usp=sharing  |
 
 | Nama         | Yang_di_uji                  | Description |
 | :----------- | :--------------------------- | :---------- |
@@ -30,6 +30,6 @@
 
 | Nama                   | yang_di_uji        | Description |
 | :--------------------- | :----------------- | :---------- |
-| Dyar Dwiqi Adriadi Nur | Sign out | \_\_\_\_    |
+| Dyar Dwiqi Adriadi Nur | Sign out | https://drive.google.com/file/d/1Bgor7w2rPeN5d-ynKSkdt5clLxB4xyZ0/view?usp=sharing |
 
 
